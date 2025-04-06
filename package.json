@@ -1,19 +1,21 @@
 {
-  "name": "n8n-nodes-<...>",
+  "name": "n8n-nodes-mercado-pago",
   "version": "0.1.0",
   "description": "",
   "keywords": [
-    "n8n-community-node-package"
+    "n8n-community-node-package",
+    "mercado-pago",
+    "payment"
   ],
   "license": "MIT",
   "homepage": "",
   "author": {
     "name": "",
-    "email": ""
+    "email": "edu@bzsoftware.com.br"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/<...>/n8n-nodes-<...>.git"
+    "url": "https://github.com/bzsoftware/n8n-nodes-mercado-pago.git"
   },
   "engines": {
     "node": ">=18.10",

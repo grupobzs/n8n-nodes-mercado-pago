@@ -1,0 +1,21 @@
+{
+    "node": "n8n-nodes-base.mercadoPago",
+    "nodeVersion": "1.0",
+    "codexVersion": "1.0",
+    "categories": [
+        "Finance & Accounting",
+        "Sales"
+    ],
+    "resources": {
+        "credentialDocumentation": [
+            {
+                "url": "https://www.mercadopago.com.br/developers/pt/reference"
+            }
+        ],
+        "primaryDocumentation": [
+            {
+                "url": "https://www.mercadopago.com.br/developers/pt/reference"
+            }
+        ]
+    }
+}
